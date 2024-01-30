@@ -7,3 +7,7 @@ body {
         linear-gradient(90deg, rgba(0, 0, 0, 0.3) 1px, transparent 1px);
     background-size: 10px 10px;
 }
+
+.target {
+    view-transition-name: banner-img;
+}
